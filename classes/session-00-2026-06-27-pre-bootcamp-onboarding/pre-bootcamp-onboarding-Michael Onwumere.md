@@ -53,4 +53,4 @@ This session gave me a solid understanding of Git and GitHub fundamentals. I now
 
 ---
 
-*Submitted by: Michael Chinonso Onwumere · GitHub Username: MichaelOnwumere
+Submitted by: Michael Chinonso Onwumere · GitHub Username: MichaelOnwumere
