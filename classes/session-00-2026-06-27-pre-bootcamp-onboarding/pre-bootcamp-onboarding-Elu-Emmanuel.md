@@ -7,11 +7,13 @@
 
 -The goal of the community for this session, rules and regulations 
 <img width="880" height="521" alt="Screenshot 2026-06-30 141202" src="https://github.com/user-attachments/assets/55b5c6bc-2712-4d4e-b7ca-2d46c13f66df" />
+
 -What to expect (Curriculum, Projects, Assessments etc)and 
 -Mentees commitment (Attendance, Punctuality, Assignments and Projects delivery)
 -How to create GitHub profile, a repo and projects
 -The below image is a display of the agenda
 <img width="902" height="537" alt="Screenshot 2026-06-30 141511" src="https://github.com/user-attachments/assets/255dec38-0eaf-4b6d-94a8-f9c11722105c" />
+
 -I got to know the mentors and the moderators for the entire session
 <img width="865" height="487" alt="Screenshot 2026-06-30 141920" src="https://github.com/user-attachments/assets/c01795f6-8d39-4acd-aa69-ed3f09046df4" />
 <img width="878" height="495" alt="Screenshot 2026-06-30 141941" src="https://github.com/user-attachments/assets/fbadf79f-cb48-4c75-b427-e81ec55dedb2" />
