@@ -1,4 +1,4 @@
-# My Notes — [Imaobong Uwah]
+# My Notes — Imaobong Uwah
 
 ---
 
