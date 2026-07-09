@@ -24,8 +24,8 @@ How Conditional Access policies evaluate user identity, device compliance, appli
 The importance of Self-Service Password Reset (SSPR) in improving user productivity while maintaining security.
 The principles of Zero Trust security, where every access request is verified before permission is granted.
 How Privileged Identity Management (PIM) enables Just-in-Time (JIT) access, reducing the risk associated with permanent administrative privileges.
-The principle of least privilege and why users should only receive the permissions necessary to perform their duties.
-Lab / Hands-On Work
+The principle of least privilege and why users should only receive the permissions necessary to perform their duties and Lab/Hands-On Work
+
 What I Did :
 
 During the practical session, I completed hands-on exercises using the Microsoft Entra admin center.
